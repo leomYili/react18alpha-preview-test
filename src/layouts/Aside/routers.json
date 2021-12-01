@@ -1,0 +1,20 @@
+[
+  {
+    "id": "nf",
+    "label": "新特性",
+    "children": [
+      {
+        "id": "nf-1",
+        "label": "Automatic batching"
+      },
+      {
+        "id": "nf-2",
+        "label": "Concurrent APIS"
+      },
+      {
+        "id": "nf-3",
+        "label": "SSR for Suspense"
+      }
+    ]
+  }
+]

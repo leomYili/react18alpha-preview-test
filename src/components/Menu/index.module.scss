@@ -1,0 +1,12 @@
+.indents {
+  .unit {
+    &::before {
+      position: absolute;
+      top: 0;
+      right: 8px;
+      bottom: -10px;
+      border-right: 1px solid #d9d9d9;
+      content: "";
+    }
+  }
+}
